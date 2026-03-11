@@ -111,8 +111,13 @@ print(plan)
 
 # Output:
 ```
-['move_A_to_B', 'move_B_to_C']
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/51060b61-eede-42a5-97f1-df517cc266e2" />
 ```
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+
+# Result:
+Therefore, the Classical Planning Algorithm has been implemented successfully.
+
+
